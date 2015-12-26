@@ -1,0 +1,15 @@
+#peliculas
+{
+	height: 200px;
+    width: 200px;
+    float:left;
+}
+.titulo{
+    text-align: center;
+}
+#peliculas_array{
+    
+    float: left;
+    width: 770px;
+    margin-left: 130px;
+}

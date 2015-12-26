@@ -1,0 +1,36 @@
+#div_sesiones_formulario{
+    border:#F60 solid 2px;
+    float:left;
+}
+#sesiones{
+    float:left;
+    border:#F00 solid 2px;
+    display:block;
+    position:absolute;
+    margin-left: 260px;
+    width:835px;
+    height:auto;
+}
+
+#una_pelicula{
+    border:#0F0 solid 2px;
+    display:block;
+    height:370px;
+    margin-left:10px;
+}
+#titulo{
+    width:auto;
+}
+#imagen{
+    float:left;
+}
+table{
+    float:left;
+    margin-left:20px;
+}
+td{
+    vertical-align: top;
+    width:100;
+    font-size:small;
+    text-align:center;
+}

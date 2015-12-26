@@ -1,0 +1,68 @@
+#estrenos{
+	float:left;
+	height:700px;
+	width:650px;
+	}
+.estrenos_titulo{
+	display:block;
+	font-weight:bold;
+	text-align:center;
+	font-size:15px;
+	
+	}
+.estrenos_pelicula{
+	display:block;
+	font-weight:bold;
+	text-align:center;
+	
+	}
+
+.estrenos_imagen{
+	height:250px;
+	width:200px;
+	float:left;
+	padding:20px 20px 20px 0px;
+	}
+.estrenos_sinopsis{
+	display:block;
+	text-align:justify;
+	font-size:medium;
+	}
+#registerForm{
+	float:right;
+	width: 295px;
+	padding-left:12px;
+	padding-right:12px;
+}
+	#registerForm .element{
+		position:relative;
+		text-align:center;
+		clear:both;
+		height:25px;
+		margin-top: 15px;
+	}
+		#registerForm .element .elementTitle{
+			position:relative;
+			text-align:left;
+			float: left;
+			width:65px;
+		}
+		#registerForm .element .elementInput{
+			position:relative;
+			float: left;
+			left:30px;
+		}
+.asteris{
+	float: right;
+}
+.video{
+	margin-left:95px;
+	margin-top:30px;
+    }
+#bienvenido{
+    text-align: center;
+    font-family:"Lucida Console", Monaco, monospace;
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+}

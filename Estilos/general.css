@@ -1,0 +1,43 @@
+body
+{
+	background-color:#000;
+	color:#FFFFFF;
+    font-family:"Lucida Console", Monaco, monospace;
+}
+h1
+{
+	padding-top:70px;
+	font-size:75px;
+	text-align:center;
+}
+#todo
+{
+	width:1200px;
+	margin-bottom:10px;
+	margin-left:auto;
+	margin-right:auto;
+	height:auto;
+}
+#cabecera
+{
+	height:200px;
+	background-image:url(../Imagenes/movies_by_frieke_ad_bnpparibas.jpg);
+	background-repeat:repeat;
+	background-position:center;
+	font-family:"Lucida Console", Monaco, monospace;	
+}
+#menu
+{
+	height:30px;
+	background-color:#999;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+#menu .elementoMenu
+{
+		margin-top:4px;
+		position: relative;
+		width: 125px;
+		float: left;
+		margin-left: 10px;
+}
